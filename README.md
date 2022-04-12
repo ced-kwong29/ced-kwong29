@@ -2,7 +2,7 @@
 
 I'm currently still exploring different areas in my major and very excited about all the different oppurtunities
 my school has to offer. When I'm not busy with school, I'm usually working out at the gym, swimming, jamming to my 
-spotify, or listening to true crime podcasts. Also, I'm super into _Marvel_, _DC_, and _Star Wars.
+spotify, or listening to true crime podcasts. Also, I'm super into _Marvel_, _DC_, and _Star Wars_!
 
 Find me on [LinkedIn](https://www.linkedin.com/in/cedric-kwong-2b5145233/) and [Spotify](https://open.spotify.com/user/k606phub54xl9aa1thuuw6rkd?si=31bcb17a4b9945e2).
 
