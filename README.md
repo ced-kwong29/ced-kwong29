@@ -1,4 +1,4 @@
-### Hi there! My name is Cedric Kwong, and I'm a 2nd-year CS student at UC Irvine.
+### Hi there! My name is Cedric Kwong, and I'm a 3rd-year CS student at UC Irvine.
 
 I'm currently still exploring different areas in my major and very excited about all the different oppurtunities
 my school has to offer. When I'm not busy with school, I'm usually working out at the gym, swimming, jamming to my 
