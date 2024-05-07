@@ -1,6 +1,6 @@
 # 💫About Me :
 I am currently an 4th year undergraduate majoring in Computer Science at University of California, Irvine
-I'm working as Backend Developer Intern at a startup called developerDB.
+and also working as Backend Developer Intern at a startup called developerDB.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cedric.kwong.71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cedric_w_kwong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cedricwkwong) 
