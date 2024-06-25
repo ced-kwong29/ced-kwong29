@@ -1,5 +1,5 @@
 # 💫About Me :
-I am currently an 4th year undergraduate majoring in Computer Science at University of California, Irvine
+I am a recent Computer Science graduate from University of California, Irvine
 and also working as Backend Developer Intern at a startup called developerDB.
 
 ## 🌐Socials
