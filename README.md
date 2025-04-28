@@ -1,6 +1,5 @@
 # 💫About Me :
-I am a recent Computer Science graduate from University of California, Irvine
-and also working as Backend Developer Intern at a startup called developerDB.
+I am pursuing a Master's in computer science at Santa Clara University and recently earn my Bachelor's from University of California, Irvine.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cedric.kwong.71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cedric_w_kwong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cedricwkwong) 
