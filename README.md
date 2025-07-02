@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an upcoming ITT student design trainee at SFO<br>🌱 I’m currently pursuing my Master's degree in computer science & engineering at Santa Clara University.<br>⚡ I earned my Bachelor's degree in computer science and minored in Informatics at the University of California, Irvine.
+🌱 I’m currently pursuing my Master's degree in computer science & engineering at Santa Clara University.<br>⚡ I earned my Bachelor's degree in computer science and minored in Informatics at the University of California, Irvine.
 
 
 ## 🌐 Socials:
