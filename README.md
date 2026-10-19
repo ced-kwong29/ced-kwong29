@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=220&section=header&text=Cedric%20Kwong&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Prev%20Software%20Engineer%20Intern%20%40%20SFO%20%7C%20MS%20CSE%20%40%20Santa%20Clara%20University&descSize=18&descAlignY=55&descColor=a9b1d6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=220&section=header&text=Cedric%20Kwong&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Intern%20%40%20SFO%20%7C%20MS%20CSE%20%40%20Santa%20Clara%20University&descSize=18&descAlignY=55&descColor=a9b1d6" width="100%" />
 
 <!-- Social Badges -->
 <br/>
